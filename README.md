@@ -1,5 +1,5 @@
 # Search-Algorithms
-A STILL IN PROGRESS hobby project to visualize how different type of search algorithms work.
+A STILL WORK IN PROGRESS hobby project to visualize how different type of search algorithms work.
 * BFS
 * DFS
 * DIJKSTRA
